@@ -1,6 +1,7 @@
 # Scripts used to detect bad technical writing#
 
 Things detected:
+
 * passive voice
 * weasel words
 * duplicated words (such as "the the")
