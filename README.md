@@ -6,5 +6,5 @@ Things detected:
 * weasel words
 * duplicated words (such as "the the")
 
-Shamelessly stolen from: http://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates/ 
+Shamelessly stolen from: [Matt Might's blog](http://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates/) 
 
